@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tiedostot\\git_olio\\Ruoka-annos_Generaattori\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{840C5662-22F3-461C-84FB-26DC0F23D475}|Ruoka-annos_Generaattori\\Ruoka-annos_Generaattori.csproj|c:\\tiedostot\\git_olio\\ruoka-annos_generaattori\\ruoka-annos_generaattori\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840C5662-22F3-461C-84FB-26DC0F23D475}|Ruoka-annos_Generaattori\\Ruoka-annos_Generaattori.csproj|solutionrelative:ruoka-annos_generaattori\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tiedostot\\git_olio\\Ruoka-annos_Generaattori\\Ruoka-annos_Generaattori\\Program.cs",
+              "RelativeDocumentMoniker": "Ruoka-annos_Generaattori\\Program.cs",
+              "ToolTip": "C:\\Tiedostot\\git_olio\\Ruoka-annos_Generaattori\\Ruoka-annos_Generaattori\\Program.cs",
+              "RelativeToolTip": "Ruoka-annos_Generaattori\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:25:24.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\bin\Debug\net8.0\Ruoka-annos_Generaattori.exe
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\bin\Debug\net8.0\Ruoka-annos_Generaattori.deps.json
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\bin\Debug\net8.0\Ruoka-annos_Generaattori.runtimeconfig.json
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\bin\Debug\net8.0\Ruoka-annos_Generaattori.dll
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\bin\Debug\net8.0\Ruoka-annos_Generaattori.pdb
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\obj\Debug\net8.0\Ruoka-annos_Generaattori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\obj\Debug\net8.0\Ruoka-annos_Generaattori.AssemblyInfoInputs.cache
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\obj\Debug\net8.0\Ruoka-annos_Generaattori.AssemblyInfo.cs
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\obj\Debug\net8.0\Ruoka-annos_Generaattori.csproj.CoreCompileInputs.cache
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\obj\Debug\net8.0\Ruoka-annos_Generaattori.sourcelink.json
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\obj\Debug\net8.0\Ruoka-annos_Generaattori.dll
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\obj\Debug\net8.0\refint\Ruoka-annos_Generaattori.dll
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\obj\Debug\net8.0\Ruoka-annos_Generaattori.pdb
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\obj\Debug\net8.0\Ruoka-annos_Generaattori.genruntimeconfig.cache
+C:\Tiedostot\git_olio\Ruoka-annos_Generaattori\Ruoka-annos_Generaattori\obj\Debug\net8.0\ref\Ruoka-annos_Generaattori.dll
