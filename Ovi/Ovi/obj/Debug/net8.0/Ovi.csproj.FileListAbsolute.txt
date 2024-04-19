@@ -1,0 +1,14 @@
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\bin\Debug\net8.0\Ovi.exe
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\bin\Debug\net8.0\Ovi.deps.json
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\bin\Debug\net8.0\Ovi.runtimeconfig.json
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\bin\Debug\net8.0\Ovi.dll
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\bin\Debug\net8.0\Ovi.pdb
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\obj\Debug\net8.0\Ovi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\obj\Debug\net8.0\Ovi.AssemblyInfoInputs.cache
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\obj\Debug\net8.0\Ovi.AssemblyInfo.cs
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\obj\Debug\net8.0\Ovi.csproj.CoreCompileInputs.cache
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\obj\Debug\net8.0\Ovi.dll
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\obj\Debug\net8.0\refint\Ovi.dll
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\obj\Debug\net8.0\Ovi.pdb
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\obj\Debug\net8.0\Ovi.genruntimeconfig.cache
+C:\Users\s2200915\OneDrive - Business College Helsinki\Työpöytä\C#\Ovi\Ovi\obj\Debug\net8.0\ref\Ovi.dll
