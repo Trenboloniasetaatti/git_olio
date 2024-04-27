@@ -35,7 +35,6 @@ public class Nuoli
         return karki_hinta + pera_hinta + varsi_hinta;
     }
 
-    // Staattiset metodit valmiiden nuolipohjien luomiseksi
     public static Nuoli LuoEliittiNuoli()
     {
         return new Nuoli(Karki.TIMANTTI, Pera.KOTKANSULKA, 100);
@@ -103,7 +102,6 @@ class Program
                 break;
         }
 
-        // Näytetään valitun nuolen hinta
         Console.WriteLine("Nuolen hinta on: " + valittu_nuoli.PalautaHinta() + " kultaa");
     }
 }
