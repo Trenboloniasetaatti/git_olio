@@ -1,0 +1,15 @@
+C:\Tiedostot\git_olio\Nuolia\Nuolia\bin\Debug\net8.0\Nuolia.exe
+C:\Tiedostot\git_olio\Nuolia\Nuolia\bin\Debug\net8.0\Nuolia.deps.json
+C:\Tiedostot\git_olio\Nuolia\Nuolia\bin\Debug\net8.0\Nuolia.runtimeconfig.json
+C:\Tiedostot\git_olio\Nuolia\Nuolia\bin\Debug\net8.0\Nuolia.dll
+C:\Tiedostot\git_olio\Nuolia\Nuolia\bin\Debug\net8.0\Nuolia.pdb
+C:\Tiedostot\git_olio\Nuolia\Nuolia\obj\Debug\net8.0\Nuolia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\git_olio\Nuolia\Nuolia\obj\Debug\net8.0\Nuolia.AssemblyInfoInputs.cache
+C:\Tiedostot\git_olio\Nuolia\Nuolia\obj\Debug\net8.0\Nuolia.AssemblyInfo.cs
+C:\Tiedostot\git_olio\Nuolia\Nuolia\obj\Debug\net8.0\Nuolia.csproj.CoreCompileInputs.cache
+C:\Tiedostot\git_olio\Nuolia\Nuolia\obj\Debug\net8.0\Nuolia.sourcelink.json
+C:\Tiedostot\git_olio\Nuolia\Nuolia\obj\Debug\net8.0\Nuolia.dll
+C:\Tiedostot\git_olio\Nuolia\Nuolia\obj\Debug\net8.0\refint\Nuolia.dll
+C:\Tiedostot\git_olio\Nuolia\Nuolia\obj\Debug\net8.0\Nuolia.pdb
+C:\Tiedostot\git_olio\Nuolia\Nuolia\obj\Debug\net8.0\Nuolia.genruntimeconfig.cache
+C:\Tiedostot\git_olio\Nuolia\Nuolia\obj\Debug\net8.0\ref\Nuolia.dll
