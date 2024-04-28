@@ -1,0 +1,15 @@
+C:\Tiedostot\git_olio\Reppu\Reppu\bin\Debug\net8.0\Reppu.exe
+C:\Tiedostot\git_olio\Reppu\Reppu\bin\Debug\net8.0\Reppu.deps.json
+C:\Tiedostot\git_olio\Reppu\Reppu\bin\Debug\net8.0\Reppu.runtimeconfig.json
+C:\Tiedostot\git_olio\Reppu\Reppu\bin\Debug\net8.0\Reppu.dll
+C:\Tiedostot\git_olio\Reppu\Reppu\bin\Debug\net8.0\Reppu.pdb
+C:\Tiedostot\git_olio\Reppu\Reppu\obj\Debug\net8.0\Reppu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\git_olio\Reppu\Reppu\obj\Debug\net8.0\Reppu.AssemblyInfoInputs.cache
+C:\Tiedostot\git_olio\Reppu\Reppu\obj\Debug\net8.0\Reppu.AssemblyInfo.cs
+C:\Tiedostot\git_olio\Reppu\Reppu\obj\Debug\net8.0\Reppu.csproj.CoreCompileInputs.cache
+C:\Tiedostot\git_olio\Reppu\Reppu\obj\Debug\net8.0\Reppu.sourcelink.json
+C:\Tiedostot\git_olio\Reppu\Reppu\obj\Debug\net8.0\Reppu.dll
+C:\Tiedostot\git_olio\Reppu\Reppu\obj\Debug\net8.0\refint\Reppu.dll
+C:\Tiedostot\git_olio\Reppu\Reppu\obj\Debug\net8.0\Reppu.pdb
+C:\Tiedostot\git_olio\Reppu\Reppu\obj\Debug\net8.0\Reppu.genruntimeconfig.cache
+C:\Tiedostot\git_olio\Reppu\Reppu\obj\Debug\net8.0\ref\Reppu.dll
