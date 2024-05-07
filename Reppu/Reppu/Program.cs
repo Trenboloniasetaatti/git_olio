@@ -16,11 +16,6 @@ class Tavara
         Nimi = nimi;
     }
 
-    // Ylikirjoitetaan ToString-metodi palauttamaan tavaran nimi
-    public override string ToString()
-    {
-        return Nimi;
-    }
 }
 
 // Luokat eri tavaroille
